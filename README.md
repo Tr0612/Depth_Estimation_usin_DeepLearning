@@ -26,6 +26,6 @@ sion boundaries, and highlights the potential of coded aperture
  ![image](https://github.com/user-attachments/assets/0c7821a8-b2b9-4ef8-9a00-d445e068cdf6)
 
  # Tasks
- [] Yet to create python script
- [] Work on improving the architecture
+ - [] Yet to create python script
+ - [] Work on improving the architecture
 
