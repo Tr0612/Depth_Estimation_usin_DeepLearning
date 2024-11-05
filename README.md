@@ -26,7 +26,7 @@ sion boundaries, and highlights the potential of coded aperture
  ![image](https://github.com/user-attachments/assets/0c7821a8-b2b9-4ef8-9a00-d445e068cdf6)<br />
  Our output after training 45 epochs \
  ![image](https://github.com/user-attachments/assets/23ee825a-19cc-4b06-8c23-b41f8cee1579)<br />
-Colormap Output \ 
+Colormap Output  
 ![image](https://github.com/user-attachments/assets/0bb78200-5415-4983-9687-cb26ccba010b)
 
 
