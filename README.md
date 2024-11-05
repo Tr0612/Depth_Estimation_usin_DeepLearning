@@ -22,6 +22,6 @@ sion boundaries, and highlights the potential of coded aperture
 
  # Result
  AiF - All in Focus images refers to RGB Images
- CodedDepth - This refers to training the model on using CodedDepth Images which we obtained using that paper /
+ CodedDepth - This refers to training the model on using CodedDepth Images which we obtained using that paper \
  ![image](https://github.com/user-attachments/assets/0c7821a8-b2b9-4ef8-9a00-d445e068cdf6)
 
