@@ -25,3 +25,7 @@ sion boundaries, and highlights the potential of coded aperture
  CodedDepth - This refers to training the model on using CodedDepth Images which we obtained using that paper \
  ![image](https://github.com/user-attachments/assets/0c7821a8-b2b9-4ef8-9a00-d445e068cdf6)
 
+ # Tasks
+ [] Yet to create python script
+ [] Work on improving the architecture
+
